@@ -21,23 +21,23 @@
         git status
 
 5. Can you commit both of the changed files in a single commit?
-<!-- No -->
+No
 
 6. After you do so, check that you have a clean working directory by running `git status`, and pasting the output here
-<!-- On branch master
-nothing to commit, working tree clean -->
+On branch master
+nothing to commit, working tree clean
 
 7. Create a new file `equipment/furniture.txt`. Add content to both `vegetables.txt` and `furniture.txt`
 
 8. How can you commit just one of the changed files?
-<!-- git add equipment/furniture.txt 
-git commit -m "add new furniture"  -->
+git add equipment/furniture.txt 
+git commit -m "add new furniture" 
 9. Check your `git status`
 
 10. What does red text mean in the output of `git status`?
-<!-- modified -->
+modified
 11. What does green text mean in the output of `git status`?
-<!-- new file -->
+new file
 
 12. How can you make a single file show in both red and green in the output of `git status`?
 

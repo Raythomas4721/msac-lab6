@@ -17,6 +17,6 @@
 6. Check git status again, and paste the contents below.
 
         git status
-<!-- On branch master
-nothing to commit, working tree clean -->
+On branch master
+nothing to commit, working tree clean
 

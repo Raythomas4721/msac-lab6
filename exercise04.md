@@ -31,10 +31,10 @@ nothing added to commit but untracked files present (use "git add" to track) -->
 5. Check git status again, and paste the contents below
 
         git status
-<!-- On branch master
+On branch master
 
 No commits yet
 
 Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
-        new file:   fruits.txt -->
+        new file:   fruits.txt
