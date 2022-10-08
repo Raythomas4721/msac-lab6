@@ -35,8 +35,10 @@
         git status
 
 10. Which of the steps could be omitted?
+git status
 
 11. Why might it be a bad idea to omit them?
+maybe we did something wrong in a step but keep working
 
 12. Repeat the above steps to add a new file with the name `vegetables.txt`
 
